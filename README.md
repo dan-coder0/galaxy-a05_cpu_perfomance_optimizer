@@ -1,4 +1,4 @@
-Perfor-X™: Dynamic CPU Performance Optimization
+Perfor-X™ Dynamic CPU Performance Optimization
 
 Perfor-X™ is a shell script designed for Android (rooted)devices,
 dynamically adjusts CPU performance settings based on real-time CPU usage:
