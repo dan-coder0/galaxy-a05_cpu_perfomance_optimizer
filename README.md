@@ -1,7 +1,7 @@
 Perfor-X™ Dynamic CPU Performance
 
 Perfor-X™ is a shell script designed for android(rooted) devices. It dynamically adjusts CPU performance settings based on real-time CPU usage.
-Automatically switches between "powersave" and "performance" CPU governors to optimize battery life or maximize performance as needed.
+Automatically switches between "powersave" and "performance" cpu governors to optimize battery life or maximize performance as needed.
 
 Usage:
 Copy the script to your device(preferably in the internel storage)
